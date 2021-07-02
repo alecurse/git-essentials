@@ -1,3 +1,7 @@
-body {
-    background-color: blue;
+div {
+    background-color: red;
+    color: red;
+}
+.hello {
+    border: 1px solid blue;
 }
